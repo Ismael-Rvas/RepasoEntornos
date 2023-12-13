@@ -1,9 +1,6 @@
 # Actividad 1:
 
-<br>
-
 1. Ejecuta el programa "Hola mundo" en los siguientes lenguajes:
-<br>
 <br>
 
  
